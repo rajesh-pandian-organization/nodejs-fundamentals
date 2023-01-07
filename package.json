@@ -4,7 +4,7 @@
   "description": "learn node js",
   "main": "1-intro.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "author": "Rajesh",
   "license": "ISC",
