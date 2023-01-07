@@ -1,10 +1,17 @@
 {
-  "name": "fundamentals",
+  "name": "@rajesh-pandian-1988/fundamentals",
   "version": "1.0.0",
   "description": "learn node js",
   "main": "1-intro.js",
   "scripts": {
     "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajesh-pandian-organization/nodejs-fundamentals"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "Rajesh",
   "license": "ISC",
